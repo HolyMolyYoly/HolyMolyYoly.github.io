@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: THINK!!
+description: Cogito, ergo sum
+author: JIHUN KIM
+github: https://github.com/HolyMolyYoly
+about: think & move
+disqus_shortname: KARMA
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -21,11 +21,11 @@ social:
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
-      link: "#"
+      link: "www.linkedin.com/in/thinkandmove"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/HolyMolyYoly"
 
 share:
   twitter_username: github.io
