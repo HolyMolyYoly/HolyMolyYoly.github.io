@@ -47,3 +47,5 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
+
+theme: jekyll-theme-hacker
